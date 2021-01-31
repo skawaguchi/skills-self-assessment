@@ -34,9 +34,9 @@ Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engine
 | Recruiting | 1 | 1 | I've been a hiring manager in the past on multiple occasions. I've conducted over 200 technical internviews and created an interviewing process. I've also built up multiple teams from scratch. However, I haven't been as involved in this in the recent past. | 
 | Community | 3 | 6 | I work hard to build bridges. My last project is testament to that because my group had to work with over 30 groups on various topics. There would be no chance of success if we hadn't brought all of our collaborative abilities to bear. Additionally, I participate in org-wide discussions and help foster a learning culture by giving occasional talks and participating in our Learning Club and Agile Guild. |
 | *Sub-Total* | | **16** |
-| **TOTAL** | **4.3** | **89** |
+| **TOTAL** | **4.3** | **89** | **Staff Engineer** |
 
-Next Level: 90
+**Next Level: 90 Principal Engineer**
 
 ### Targeted Areas of Development
 - Mobile: Set up more mobile projects, build out mobile platform.
