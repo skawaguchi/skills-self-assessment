@@ -2,7 +2,7 @@
 
 I was shown this tool while discussing software craftsmanship across IBM. I thought it would be an interesting exercise to see where I might stand, and also to use for my mentees in our 1:1s.
 
-Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524) for more details. Here is the [rubric](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit). Medium's [Snowflake](https://snowflake.medium.com/#1,4,3,4,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Principal%20Engineer) can give you an idea of how the metrics work (although Medium itself has [evolved past using it](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)). 
+Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524) for more details. Here is the [rubric](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit). Medium's [Snowflake](https://snowflake.medium.com/#1,4,2,2,4,3,4,3,3,2,2,3,3,2,1,3,Stephen%20Kawaguchi,Staff%20Engineer) can give you an idea of how the metrics work (although Medium itself has [evolved past using it](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)). 
 
 ## Medium Engineering Growth Rubric
 
