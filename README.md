@@ -1,4 +1,4 @@
-# Skills Self-Rating
+# Skills Self-Assessment
 
 I was shown this tool while discussing software craftsmanship across IBM. I thought it would be an interesting exercise to see where I might stand myself, and also to use for my mentees in our 1:1s.
 
