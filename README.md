@@ -14,7 +14,7 @@ I was shown this tool while discussing software craftsmanship across IBM. I thou
 
 *Previous Update: January 31, 2021*
 
-Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524) for more details. Here is the [rubric](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit). Medium's [Snowflake](https://snowflake.medium.com/#1,4,3,1,4,3,4,3,3,2,2,3,4,2,1,3,Stephen%20Kawaguchi,Staff%20Engineer) can give you an idea of how the metrics work (although Medium itself has [evolved past using it](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)). 
+Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524) for more details. Here is the [rubric](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit). I also forked and got the [Medium Snowflow](https://snowflake-blond.vercel.app/#1,3,3,2,4,3,4,3,3,2,3,3,4,2,3,3,Stephen%20Kawaguchi,Principal%20Engineer) tool running on Vercel, which I've found to be a really valuable tool. If you want to use it, just modify the URL query string parameters. It can give you an idea of how the metrics work (although Medium itself has [evolved past using it](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)). 
 
 | Skill | Milestone | Points | Justification |
 | :---- | --------: | -----: | ------------- |
