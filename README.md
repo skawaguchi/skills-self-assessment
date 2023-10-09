@@ -1,6 +1,9 @@
 # Skills Self-Assessment
 
-I was shown this tool while discussing software craftsmanship across IBM. I thought it would be an interesting exercise to see where I might stand myself, and also to use for my mentees in our 1:1s.
+- *Last Updated: Sep 1, 2023*
+- *Previous Update: January 31, 2021*
+
+I've been using Medium's growth metrics as a self-assessment tool to help identify my areas of growth, and to drive me to pursue them. They also serve as reminders to keep certain skills sharp. Hopefully, others might find this tool valuable.
 
 ## Current Areas of Development
 
@@ -8,13 +11,13 @@ I was shown this tool while discussing software craftsmanship across IBM. I thou
 - [ ] **Servers**: Build and deploy microservices and serverless from scratch. Learn and apply GitOps.
 - [ ] **Supporting**: Learn how to make game-changing impacts and grow my skills so I can contribute to the same degree as staff engineers and senior developers in a truly generative organization.
   
-## Medium Engineering Growth Rubric
+## The Medium Engineering Growth Rubric
 
-*Last Updated: Sep 1, 2023*
+The [rubric](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk) provides detailed explanations of the categories below.
 
-*Previous Update: January 31, 2021*
+I've also resurrected [Medium Snowflake](https://snowflake-blond.vercel.app/#1,3,3,2,4,3,4,3,3,2,3,3,4,2,3,3,Stephen%20Kawaguchi,Principal%20Engineer) which is an invaluable tool to understand the rubric in more detail, and also the big picture around your own growth. Feel free to use it for your own self-assessment! Just modify the URL query string parameters to "save" your settings. **Note:** Medium itself has [evolved past using it](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)).
 
-Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524) for more details. Here is the [rubric](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit). I also forked and got the [Medium Snowflow](https://snowflake-blond.vercel.app/#1,3,3,2,4,3,4,3,3,2,3,3,4,2,3,3,Stephen%20Kawaguchi,Principal%20Engineer) tool running on Vercel, which I've found to be a really valuable tool. If you want to use it, just modify the URL query string parameters. It can give you an idea of how the metrics work (although Medium itself has [evolved past using it](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)). 
+Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524) for more details on their engineering growth philosophy. It's one of the most useful ones in the industry. 
 
 | Skill | Milestone | Points | Justification |
 | :---- | --------: | -----: | ------------- |
@@ -41,7 +44,5 @@ Refer to Medium's [Engineering growth: Introduction](https://medium.com/s/engine
 | **Evangelism** | 2 | 3 | I believe I've done a decent job of this, especially at my last company. I wrote a case study and several guides around the topic of software quality. My real aim was to find my Army of Change (from the [Kotter Change Model](https://www.kotterinc.com/methodology/8-steps/)) and find ways to empower them to drive change in their areas. However, these efforts took time I didn't end up having since a large portion of engineering was laid off. That would have been my biggest impact to date. Otherwise, I've helped teach many teams and individuals the value of software quality and engineering principles, or even how to work constructively. This probably isn't what this particular grade is for other than to  |
 | **Recruiting** | 3 | 6 | I've been a hiring manager multiple times. I've conducted over 200 technical interviews and created an interviewing process. I've also built up multiple teams from scratch. **Update:** (+1/+3 Sep 2023) I've been part of hiring teams again, and have had a (small) hand in selling candidates on our culture, and taking the time to answer the questions behind their questions and creating a welcoming interview environment. I generally appeal to their desire for growth, and am pretty frank about the culture and opportunities in whichever org I'm working with. | 
 | **Community** | 3 | 6 | I work hard to build bridges within my org. My main IBM product is a testament to that: my group had to work with 30+ groups - from dependencies, compliance/audit, and partnerships. There would be no chance of success if I hadn't brought all of my collaborative abilities to bear and run our product through the gauntlet. I also help foster a learning culture by giving occasional talks, leading and participating in study groups (DDD, Staff+ engineering, Kubernetes/cloud native, Clean Code) and guilds (Agile, Go), and sharing insights from my personal research with interested parties from developers, to managers, to exectives. I help other teams with their initiatives without sacrificing my own team's initiatives. I'm always hunting for win-win collaborations. |
-| *Sub-Total* | 12 | **27** | (+1/+3 Sep 2023)
+| **Sub-Total** | **12** | **27** | (Sep 2023 growth: +1/+3 )
 | **TOTAL** | **46** | **100** | **Principal Engineer/Director of Engineering** |
-
-**Next Level: ???**
