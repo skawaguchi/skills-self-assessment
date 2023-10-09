@@ -4,8 +4,8 @@ I was shown this tool while discussing software craftsmanship across IBM. I thou
 
 ## Current Areas of Development
 
-- [ ] **Foundation**: Continue to develop back-end and cloud-native hands-on. Improve system design skills.
-- [ ] **Servers**: Build microservices and lambdas from scratch. Learn Terraform and more GitOps.
+- [ ] **Foundation**: Continue to get back-end hands-on experience, specifically more Go, gRPC, and especially databases. Improve my system design skills and align to software architecture knowledge. Continue growth with highly-distributed, high-traffic systems.
+- [ ] **Servers**: Build and deploy microservices and serverless from scratch. Learn and apply GitOps.
 - [ ] **Supporting**: Learn how to make game-changing impacts and grow my skills so I can contribute to the same degree as staff engineers and senior developers in a truly generative organization.
   
 ## Medium Engineering Growth Rubric
